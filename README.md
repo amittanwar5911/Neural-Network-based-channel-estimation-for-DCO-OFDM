@@ -4,17 +4,17 @@
 This project presents a neural network based approach for channel estimation in DC-biased Optical Orthogonal Frequency Division Multiplexing (DCO-OFDM) systems. Traditional channel estimation techniques such as Least Squares (LS) and Minimum Mean Square Error (MMSE) suffer from performance degradation under non-linear LED effects and noise. To overcome these limitations, a neural network model is employed to accurately estimate the optical channel.
 
 2.) Objectives
-  To model a DCO-OFDM based optical communication system
-  To analyze channel estimation challenges in VLC systems
-  To design and train a neural network for channel estimation
-  To compare neural network performance with conventional methods
+- To model a DCO-OFDM based optical communication system
+- To analyze channel estimation challenges in VLC systems
+- To design and train a neural network for channel estimation
+- To compare neural network performance with conventional methods
 
 3.) Technologies Used
-  Python
-  NumPy
-  TensorFlow
-  MATLAB-style signal processing
-  DCO-OFDM modulation techniques
+- Python
+- NumPy
+- TensorFlow
+- MATLAB-style signal processing
+- DCO-OFDM modulation techniques
 
 4.) System Methodology
 1. Random data generation
@@ -25,9 +25,9 @@ This project presents a neural network based approach for channel estimation in 
 6. OFDM demodulation and BER/MSE evaluation
 
 5.) Results
-  Improved Mean Square Error (MSE) performance
-  Better channel estimation accuracy compared to LS method
-  Robustness against LED non-linearity and noise
+- Improved Mean Square Error (MSE) performance
+- Better channel estimation accuracy compared to LS method
+- Robustness against LED non-linearity and noise
 
 Graphs and plots are available in the `results/` folder.
 
