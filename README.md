@@ -52,6 +52,7 @@ The results demonstrate accurate channel estimation and fast convergence of the 
 ---
 
 # Project Structure
+Neural Network Based Channel Estimation for DCO-OFDM/
 src/
 docs/
 results/
