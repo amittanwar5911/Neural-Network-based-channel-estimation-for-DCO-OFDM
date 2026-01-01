@@ -53,10 +53,13 @@ The results demonstrate accurate channel estimation and fast convergence of the 
 
 # How to Run the Project
 
-   ```bash
-   git clone https://github.com/your-username/Neural-Network-based-channel-estimation-for-DCO-OFDM.git
-   pip install -r requirements.txt
-   python src/main.py
+```bash
+git clone https://github.com/amittanwar5911/Neural-Network-based-channel-estimation-for-DCO-OFDM.git
+cd Neural-Network-based-channel-estimation-for-DCO-OFDM
+pip install -r requirements.txt
+python src/main.py
+
+
 
 
 
