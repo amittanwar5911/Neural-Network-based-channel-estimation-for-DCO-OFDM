@@ -51,30 +51,6 @@ The results demonstrate accurate channel estimation and fast convergence of the 
 
 ---
 
-## Project Structure
-
----
-
-Neural-Network-based-channel-estimation-for-DCO-OFDM/
-├── src/
-│ ├── main.py
-│ ├── ofdm_utils.py
-│ ├── channel.py
-│ └── nn_model.py
-│
-├── docs/
-│ └── block_diagram.png
-│
-├── results/
-│ ├── dco_ofdm_transmitted_vs_received.png
-│ ├── channel_estimation_comparison.png
-│ └── training_loss_convergence.png
-│
-├── requirements.txt
-├── LICENSE
-└── README.md
----
-
 # How to Run the Project
 
    ```bash
